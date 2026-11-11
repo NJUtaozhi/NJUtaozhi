@@ -37,11 +37,14 @@ sentiment) pipeline, with retrieval-augmented generation and Dockerized microser
 
 ## Links
 
-<!-- Fill in whichever you have, then delete the comment markers. Delete unused lines. -->
-<!-- - Google Scholar: https://scholar.google.com/citations?user=YOUR_ID -->
-<!-- - ORCID: https://orcid.org/0000-0000-0000-0000 -->
-<!-- - DBLP: https://dblp.org/pid/YOUR_PID.html -->
-<!-- - Personal homepage: https://USERNAME.github.io -->
+- Personal homepage: [njutaozhi.github.io](https://njutaozhi.github.io)
+- GitHub: [@NJUtaozhi](https://github.com/NJUtaozhi)
+
+<!-- Add these once available, then delete this comment:
+- Google Scholar: https://scholar.google.com/citations?user=YOUR_ID
+- ORCID: https://orcid.org/0000-0000-0000-0000
+- DBLP: https://dblp.org/pid/YOUR_PID.html
+-->
 
 ---
 
